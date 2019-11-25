@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='Garrafas1/-garrafa-pet-1-90-lt-cristal-1512059412_102265_g.jpg'>
+    <box top='10' left='234' width='306' height='748'/>
+  </image>
+  <image file='Garrafas1/-garrafa-pet-1-90-lt-verde-1512059429_102264_g.jpg'>
+    <box top='23' left='267' width='287' height='730'/>
+  </image>
+  <image file='Garrafas1/-garrafa-pet-2-lt-verde-1512059452_102262_g.jpg'>
+    <box top='71' left='274' width='280' height='637'/>
+  </image>
+  <image file='Garrafas1/0c9ec01a8b.png'>
+    <box top='58' left='88' width='304' height='730'/>
+  </image>
+  <image file='Garrafas1/2110002000-Garrafa-PET-1000ml-quadrada-transparente.jpg'>
+    <box top='-2' left='273' width='1' height='1'/>
+    <box top='1' left='273' width='249' height='598'/>
+  </image>
+  <image file='Garrafas1/500ml-mel.png'>
+    <box top='68' left='242' width='319' height='750'/>
+  </image>
+  <image file='Garrafas1/554036.jpg'>
+    <box top='3' left='188' width='298' height='788'/>
+  </image>
+  <image file='Garrafas1/606522.jpg'>
+    <box top='2' left='242' width='322' height='789'/>
+  </image>
+  <image file='Garrafas1/6d7f144b33ce4f5a8c0bf8ce0f22e74c.png'>
+    <box top='8' left='245' width='297' height='783'/>
+  </image>
+  <image file='Garrafas1/Frasco-pet-carbon-600-ml-22-gramas-2.jpg'>
+    <box top='39' left='240' width='312' height='755'/>
+  </image>
+  <image file='Garrafas1/GARRAFA-PET-15-LITRO.jpg'>
+    <box top='88' left='199' width='238' height='645'/>
+  </image>
+  <image file='Garrafas1/Garrafa-pet-carbon-450ml-16,5-gramas-2.jpg'>
+    <box top='43' left='237' width='310' height='761'/>
+  </image>
+  <image file='Garrafas1/U-66-garrafa-pet-carbon-2-litros-48-gramas.jpg'>
+    <box top='12' left='245' width='312' height='779'/>
+  </image>
+  <image file='Garrafas1/botella-de-agua-16007470.jpg'>
+    <box top='72' left='252' width='247' height='617'/>
+  </image>
+  <image file='Garrafas1/depositphotos_6501061-stock-illustration-blue-water-bottle-on-white.jpg'>
+    <box top='67' left='113' width='291' height='715'/>
+  </image>
+  <image file='Garrafas1/refrigerante_600x600-PU61e30_1.jpg'>
+    <box top='67' left='290' width='245' height='700'/>
+  </image>
+</images>
+</dataset>

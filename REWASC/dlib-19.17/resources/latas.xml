@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='../Latas1/14684794781726.jpg'>
+    <box top='55' left='219' width='349' height='666'/>
+  </image>
+  <image file='../Latas1/150-large_default.jpg'>
+    <box top='81' left='215' width='372' height='630'/>
+  </image>
+  <image file='../Latas1/17ee9181f3.png'>
+    <box top='15' left='167' width='472' height='733'/>
+  </image>
+  <image file='../Latas1/211249.jpg'>
+    <box top='43' left='181' width='448' height='699'/>
+  </image>
+  <image file='../Latas1/27313_B.jpg'>
+    <box top='-1' left='163' width='473' height='792'/>
+  </image>
+  <image file='../Latas1/49184f1-1000x1000.jpg'>
+    <box top='100' left='227' width='352' height='617'/>
+  </image>
+  <image file='../Latas1/646265-600x600-ON-1.jpg'>
+    <box top='34' left='191' width='435' height='707'/>
+  </image>
+  <image file='../Latas1/fanta-1-600x600.jpg'>
+    <box top='148' left='230' width='352' height='618'/>
+  </image>
+  <image file='../Latas1/fanta-guarana-lata-350ml-40a.jpg'>
+    <box top='11' left='148' width='469' height='780'/>
+  </image>
+  <image file='../Latas1/foto_large.jpg'>
+    <box top='33' left='202' width='409' height='696'/>
+  </image>
+  <image file='../Latas1/kkr-_159-sku-830___bebidas__fanta-laranja-lata-350ml.jpg'>
+    <box top='126' left='238' width='334' height='566'/>
+  </image>
+  <image file='../Latas1/refrigerante-fanta-uva-lata-220ml-684.jpg'>
+    <box top='48' left='183' width='429' height='730'/>
+  </image>
+  <image file='../Latas1/urfcx04zx7myn4mjpalk (1).jpg'>
+    <box top='55' left='197' width='404' height='676'/>
+  </image>
+</images>
+</dataset>

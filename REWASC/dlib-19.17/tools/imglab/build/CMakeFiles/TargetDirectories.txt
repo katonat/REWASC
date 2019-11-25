@@ -1,0 +1,14 @@
+/Users/nathaliekato/PycharmProjects/ContPessoas/TUTORIAIS/Instaláveis MAC/dlib-19.17/tools/imglab/build/CMakeFiles/install/local.dir
+/Users/nathaliekato/PycharmProjects/ContPessoas/TUTORIAIS/Instaláveis MAC/dlib-19.17/tools/imglab/build/CMakeFiles/install/strip.dir
+/Users/nathaliekato/PycharmProjects/ContPessoas/TUTORIAIS/Instaláveis MAC/dlib-19.17/tools/imglab/build/CMakeFiles/install.dir
+/Users/nathaliekato/PycharmProjects/ContPessoas/TUTORIAIS/Instaláveis MAC/dlib-19.17/tools/imglab/build/CMakeFiles/list_install_components.dir
+/Users/nathaliekato/PycharmProjects/ContPessoas/TUTORIAIS/Instaláveis MAC/dlib-19.17/tools/imglab/build/CMakeFiles/rebuild_cache.dir
+/Users/nathaliekato/PycharmProjects/ContPessoas/TUTORIAIS/Instaláveis MAC/dlib-19.17/tools/imglab/build/CMakeFiles/edit_cache.dir
+/Users/nathaliekato/PycharmProjects/ContPessoas/TUTORIAIS/Instaláveis MAC/dlib-19.17/tools/imglab/build/CMakeFiles/imglab.dir
+/Users/nathaliekato/PycharmProjects/ContPessoas/TUTORIAIS/Instaláveis MAC/dlib-19.17/tools/imglab/build/dlib_build/CMakeFiles/install/local.dir
+/Users/nathaliekato/PycharmProjects/ContPessoas/TUTORIAIS/Instaláveis MAC/dlib-19.17/tools/imglab/build/dlib_build/CMakeFiles/install/strip.dir
+/Users/nathaliekato/PycharmProjects/ContPessoas/TUTORIAIS/Instaláveis MAC/dlib-19.17/tools/imglab/build/dlib_build/CMakeFiles/install.dir
+/Users/nathaliekato/PycharmProjects/ContPessoas/TUTORIAIS/Instaláveis MAC/dlib-19.17/tools/imglab/build/dlib_build/CMakeFiles/list_install_components.dir
+/Users/nathaliekato/PycharmProjects/ContPessoas/TUTORIAIS/Instaláveis MAC/dlib-19.17/tools/imglab/build/dlib_build/CMakeFiles/rebuild_cache.dir
+/Users/nathaliekato/PycharmProjects/ContPessoas/TUTORIAIS/Instaláveis MAC/dlib-19.17/tools/imglab/build/dlib_build/CMakeFiles/edit_cache.dir
+/Users/nathaliekato/PycharmProjects/ContPessoas/TUTORIAIS/Instaláveis MAC/dlib-19.17/tools/imglab/build/dlib_build/CMakeFiles/dlib.dir

@@ -1,0 +1,3 @@
+/Users/nathaliekato/PycharmProjects/ContPessoas/TUTORIAIS/Instaláveis MAC/dlib-19.17/tools/imglab/build/dlib_build/cpp11_test_build/CMakeFiles/rebuild_cache.dir
+/Users/nathaliekato/PycharmProjects/ContPessoas/TUTORIAIS/Instaláveis MAC/dlib-19.17/tools/imglab/build/dlib_build/cpp11_test_build/CMakeFiles/edit_cache.dir
+/Users/nathaliekato/PycharmProjects/ContPessoas/TUTORIAIS/Instaláveis MAC/dlib-19.17/tools/imglab/build/dlib_build/cpp11_test_build/CMakeFiles/cpp11_test.dir
